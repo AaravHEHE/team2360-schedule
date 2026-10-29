@@ -11,6 +11,7 @@ const EVENTS = [
   { key: 'ipsd', name: 'IPSD League', date: '2026-10-23', venue: 'Neuqua Valley HS', sku: 'VE-V5-26-66342', teams: TEAMS },
   { key: 'lakepark', name: 'Lake Park', date: '2026-10-24', venue: 'Lake Park HS, Roselle', sku: 'RE-V5RC-26-4295', teams: ['2360A', '2360C', '2360D', '2360H', '2360N', '2360X'] },
   { key: 'clash1', name: 'Cornfield Clash 1', date: '2026-11-07', venue: 'Siebel Center, Champaign', sku: 'RE-V5RC-26-4351', teams: ['2360A', '2360C', '2360H', '2360N', '2360S', '2360V'] },
+  { key: 'gl1', name: 'Great Lakes 1', date: '2026-11-15', venue: 'Rotolo MS, Batavia', sku: 'RE-V5RC-26-5014', teams: ['2360C', '2360S', '2360X'] },
   { key: 'gl2', name: 'Great Lakes 2', date: '2027-01-03', venue: 'Batavia High School', sku: 'RE-V5RC-26-5015', teams: ['2360D', '2360H', '2360S', '2360V', '2360X'] },
   { key: 'clash2', name: 'Cornfield Clash 2', date: '2027-01-30', venue: 'Siebel Center, Champaign', sku: 'RE-V5RC-26-4756', teams: ['2360A', '2360C', '2360D', '2360S', '2360V', '2360X'] },
   { key: 'lockport', name: 'Lockport', date: '2027-02-06', venue: 'Lockport Township HS East', sku: 'RE-V5RC-26-4977', teams: TEAMS },
