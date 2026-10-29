@@ -24,7 +24,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - run: node build.mjs
+      - run: node node.github/workflows/build.mjs
         env:
           VEX_TOKEN: ${{ secrets.VEX_TOKEN }}
       - uses: actions/configure-pages@v5
